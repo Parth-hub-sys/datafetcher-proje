@@ -1,0 +1,9 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "Data_featcher":"./graph/graphs.py:app"
+    },
+    "env":"./.env"
+}
+
+
